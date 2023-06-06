@@ -36,9 +36,10 @@ def circulate():
     print('After circulating the values are:',circul)
 l= eval(input())
 n= eval(input())
+```
 
 ### OUTPUT:
-```
+
 ![image](https://user-images.githubusercontent.com/119393851/237031986-226527c8-b52e-43ba-8797-e570a8e6cd75.png)
 
 
